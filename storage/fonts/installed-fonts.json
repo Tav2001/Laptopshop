@@ -1,0 +1,59 @@
+{
+    "open sans": {
+        "normal": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/open_sans_normal_0de70c49c12ad3d5b30897be0764f760",
+        "600": "open_sans_600_80b344cbabc13253146884f38d4f451d"
+    },
+    "roboto": {
+        "normal": "C:\\xampp\\htdocs\\laptopshop\\storage\\fonts\/roboto_normal_7bc701b343c10631f60048716b96e4f7",
+        "300": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/roboto_300_32acfcb296f555e063ebba2be7db9e2f",
+        "500": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/roboto_500_5774d6fb05eba3d096525f821dbe4137",
+        "bold": "roboto_bold_8db5cb5d0586c1e891426d13097b1d04"
+    },
+    "nunito": {
+        "200_italic": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_200_italic_56e408f651455439f1d36fb2a3a84b9b",
+        "300_italic": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_300_italic_8c587846ba82f4bb389504ae26bbb0a3",
+        "italic": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_italic_13d3c78bd6235bbe2b1c2e26e985b9a9",
+        "600_italic": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_600_italic_a993411f3f7d0632e9165af21543d7b1",
+        "bold_italic": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_bold_italic_21892ffe28c9693cfe42f837ac11f53a",
+        "800_italic": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_800_italic_a90d4ebc68dd75a7c8e28d8175b4e06d",
+        "900_italic": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_900_italic_ddc053bbb8b46c9638c24f3676f8dfb1",
+        "200": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_200_a53d5553ce99e84032c82b0ca7340153",
+        "300": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_300_a4c86207efc6de7831e6fe2b6a6018d8",
+        "normal": "nunito_normal_f8ce9593f0c56e52776379aa29b2d690",
+        "600": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_600_20ff5cd6c5269dcc48ef3e7c73cd0a00",
+        "bold": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_bold_ea226530427d2573f837779baf2817af",
+        "800": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_800_58adb5c8a3f9bb3272edb9db47f79c12",
+        "900": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/nunito_900_accfa6397682b4f14bd588b8397e7c27"
+    },
+    "glyphicons halflings": {
+        "normal": "glyphicons_halflings_normal_4ced20531a4f462a8c5c535d4debd2eb"
+    },
+    "playfair display": {
+        "normal": "playfair_display_normal_681561da4a99cd63b96108561e34a155"
+    },
+    "lora": {
+        "normal": "lora_normal_d05dfc35cea92bcd9233d44a1c42bdcc"
+    },
+    "inter": {
+        "normal": "inter_normal_4c1c39b2d60dc6de8a3bc272ce3fe7dc"
+    },
+    "roboto slab": {
+        "normal": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/roboto_slab_normal_86060135d7ee2e25e66ede3e2617126b",
+        "200": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/roboto_slab_200_68dbd18864e2cebc4560c688d4b169e5",
+        "300": "roboto_slab_300_7b6866b6625ff7a166fedc65ae87a306"
+    },
+    "roboto flex": {
+        "normal": "roboto_flex_normal_382100bf581148b6c148445e7954cab6"
+    },
+    "montserrat": {
+        "normal": "montserrat_normal_b74b751c20b429298921949795391ef1"
+    },
+    "be vietnam pro": {
+        "normal": "be_vietnam_pro_normal_2a976dd451b935109517b3b3dca1c9f5"
+    },
+    "roboto serif": {
+        "100": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/roboto_serif_100_751d70b7d95264c8166d242f02f06cd7",
+        "normal": "E:\\Laravel_Api\\laravel_api\\laptopshop\\storage\\fonts\/roboto_serif_normal_18167bf738dba355198c1cda9337f21e",
+        "300": "roboto_serif_300_0bd47b95e606c54e1afc32cb9347c64c"
+    }
+}
